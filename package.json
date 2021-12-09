@@ -1,6 +1,12 @@
 {
   "name": "nextjs-embedded-login-box",
   "private": true,
+  "author": {
+    "name": "Frontegg",
+    "email": "hello@frontegg.com",
+    "url": "https://frontegg.com"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
