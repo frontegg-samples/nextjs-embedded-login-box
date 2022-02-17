@@ -9,7 +9,7 @@ After cloning the project, install it using
 ### `yarn`
 
 In order to run the project, run
-### `yarn start`
+### `yarn run dev`
 
 The application will be opened on [http://localhost:3000](http://localhost:3000) in development mode, and you should
 have the Frontegg login box displayed.
